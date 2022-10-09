@@ -4,12 +4,12 @@
 #                                                                       #
 # Ruby based Diceware(tm) password generator using agp                  #
 #                                                                       #
-# Diceware: 
-#   Arnold G. Reinhold
-#   http://world.std.com/~reinhold/diceware.html
-# 
-#   
-# 
+# Diceware:                                                             #
+#   Arnold G. Reinhold                                                  #
+#   http://world.std.com/~reinhold/diceware.html                        #
+#                                                                       #
+#                                                                       #  
+#                                                                       #
 #########################################################################
 
 # a single line of integers in .seed is our initial seed value
